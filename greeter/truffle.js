@@ -1,5 +1,5 @@
 module.exports = {
-	// used to connect to the ethereum network
+	// used to connect to the ethereum main network or test network
 	networks: {
 		development: {
 			host: "localhost",
